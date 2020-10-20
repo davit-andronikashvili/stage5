@@ -1,0 +1,46 @@
+/*base class*/
+.clear{
+	clear: both;
+}
+
+/*header*/
+.header-wraper{
+	margin-top: 20.5px;
+	margin-left: 98px;
+}
+.header-wraper .logo{
+	float: left;
+}
+.header-wraper .navigation{
+	float: right;
+	margin-top: 15px;
+}
+.nav-ul{
+	content: "";
+	clear: both;
+	display: block;
+	margin-right: 200px;
+}
+.nav-li{
+	vertical-align: middle;
+	float: left;
+	font-family: 'Roboto', sans-serif;
+	color: #3D58A6;
+	font-size: 24px;
+}
+.home{
+	margin-left: 103px;
+  	margin-right:31px;
+
+}
+.news{
+	margin-right: 35px;
+
+}
+.about{
+	margin-right: 23.5px;
+}
+.contact{
+	margin-right: 560px;
+}
+/*/end header/*/
